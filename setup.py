@@ -1,5 +1,6 @@
 """Use the following command to install retriever: python setup.py install"""
-"""To install retriever, run the following command:pip install ."""
+"""To install retriever, run the following command:pip install."""
+
 from __future__ import absolute_import
 
 import os
